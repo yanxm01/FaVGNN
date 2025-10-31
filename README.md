@@ -1,0 +1,15 @@
+# Fairness-oriented Vertical Federated GNNs with Incomplete Sensitive Attributes
+Accepted by Information Fusion
+# Citation
+Please cite our paper if you use this code in your own work:
+@article{wang2025fairness,
+  title={Fairness-oriented Vertical Federated GNNs with Incomplete Sensitive Attributes},
+  author={Wang, Ziqi and Yan, Xueming and Jin, Yaochu},
+  journal={Information Fusion},
+  pages={103871},
+  year={2025},
+  publisher={Elsevier}
+}
+# Usage
+Train FaVGNN
+python 
