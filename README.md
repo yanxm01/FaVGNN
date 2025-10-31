@@ -11,5 +11,11 @@ Please cite our paper if you use this code in your own work:
   publisher={Elsevier}
 }
 # Usage
-Train FaVGNN
-python 
+Train FaVGNN:
+python favgnn_main.py
+# Requirement
+python==3.11.5
+numpy==1.26.0
+scikit-learn==1.3.2
+scipy==1.11.4
+pytorch==2.2.2
