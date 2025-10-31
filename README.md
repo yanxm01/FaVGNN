@@ -10,8 +10,9 @@ Please cite our paper if you use this code in your own work:
   year={2025},  
  publisher={Elsevier}  
 }
-## Usage
-Train FaVGNN:  
+## Dataset
+The data sets with different missing rates are generated randomly for missingrate in [0.1, 0.3, 0.5, 0.7,0.9].
+## Run the code by: 
 python favgnn_main.py
 ## Requirement
 python==3.11.5  
